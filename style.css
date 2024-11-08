@@ -1,0 +1,25 @@
+*{
+margin:0;
+}
+
+
+.navbar{
+    color: white;
+    display: flex;
+    background-color: black;
+    padding: 8px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-links{
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+    margin-right: 5px;
+}
+
+#sat{
+    font-size: 8rem;
+}
+
